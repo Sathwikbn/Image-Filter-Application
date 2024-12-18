@@ -1,7 +1,6 @@
 streamlit==1.26.0
-# pillow==10.0.0  <-- remove this
+pillow>=7.1.0,<10
 numpy>=1.25.0
 opencv-python==4.8.0.74
 opencv-contrib-python==4.8.0.74
-pillow --only-binary :all:
-pip>=24.3.1
+pip install --upgrade pip
