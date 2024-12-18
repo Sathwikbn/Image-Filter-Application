@@ -1,8 +1,5 @@
-pip>=24.3.1
-setuptools>=68.0
-wheel>=0.41.0
 streamlit==1.26.0
-pillow>=7.1.0,<10 --only-binary=:all:
-numpy>=1.25.0
+pillow==9.4.0
+numpy>=1.24.0
 opencv-python==4.8.0.74
 opencv-contrib-python==4.8.0.74
