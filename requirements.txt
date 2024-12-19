@@ -1,7 +1,6 @@
-opencv-python
-pip>=24.3.1
-setuptools>=75.6.0
-wheel
-streamlit>=1.26.0
-pillow>=9.5.0
-numpy>=1.25.0
+
+streamlit==1.26.0
+pillow==9.5.0          # Update to a more stable version
+numpy>=1.24.0
+opencv-python==4.8.0.74
+opencv-contrib-python==4.8.0.74
